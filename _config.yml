@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "sungmin park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**amazing** person"
+  bio              : 
   location         : 
   email            :
   links:
