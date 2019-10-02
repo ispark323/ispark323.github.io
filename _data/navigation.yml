@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "about"
-    url: /about/
-  - title: "notes"
-    url: /notes/
+  # - title: "about"
+  #   url: /about/
+  # - title: "notes"
+  #   url: /notes/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

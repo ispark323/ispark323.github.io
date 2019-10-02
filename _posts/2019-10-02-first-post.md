@@ -1,10 +1,9 @@
 ---
-layout: post
 title: First post
 date: 2019-10-02
 ---
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/mori.jpg" alt="teamLab Borderless")
+![teamLab Borderless](/images/mori.jpg)
 
 bulleted list:
 * item 1
